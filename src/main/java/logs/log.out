@@ -1,0 +1,48 @@
+2021-12-15 08:12:651 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:611 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:769 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:884 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:771 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:994 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:623 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:773 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:223 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:383 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:106 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:387 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:143 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 08:12:581 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:471 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:561 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:349 INFO  HomePage :46 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-15 21:12:120 INFO  CreateAccountPage :107 - Entering first name  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: customer_firstname]
+2021-12-15 21:12:297 INFO  CreateAccountPage :112 - Entering last name  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: customer_lastname]
+2021-12-15 21:12:485 INFO  CreateAccountPage :127 - Entering password  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: passwd]
+2021-12-15 21:12:705 INFO  CreateAccountPage :117 - Entering first name  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: customer_firstname]
+2021-12-15 21:12:849 INFO  CreateAccountPage :122 - Entering last name  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: customer_lastname]
+2021-12-15 21:12:44 INFO  CreateAccountPage :76 - Entering reference  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: address1]
+2021-12-15 21:12:210 INFO  CreateAccountPage :81 - Entering city  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: city]
+2021-12-15 21:12:336 INFO  CreateAccountPage :102 - Selecting state [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: id_state]
+2021-12-15 21:12:449 INFO  CreateAccountPage :87 - Entering zip code  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: id_state]
+2021-12-15 21:12:604 INFO  CreateAccountPage :92 - Entering phone number  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: phone_mobile]
+2021-12-15 21:12:763 INFO  CreateAccountPage :97 - Entering reference  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> id: alias]
+2021-12-15 21:12:471 INFO  CreateAccountPage :71 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (34d3e8e53fc7d858c327a0b44ccab4e2)] -> xpath: //span[normalize-space()='Register']]
+2021-12-15 21:12:449 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:710 INFO  HomePage :46 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (01425ef2cd0754a837653ddee10d96b6)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-15 21:12:849 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:195 INFO  HomePage :46 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (4c4e3de10076267ba78b3693b8d1a19e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-15 21:12:668 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:155 INFO  HomePage :46 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (92ac5b6d79fc70283c0bd28ef0c35bd8)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-15 21:12:766 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:324 INFO  HomePage :46 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (5acfa33de94f5ac0615a87c0ff035f92)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-15 21:12:569 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:780 INFO  HomePage :46 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (e5eccca2c3d4faa57ca2b3c8f378be0b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-15 21:12:530 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:988 INFO  HomePage :46 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (fea1fcc635918098dde6fdef6dc14f99)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-15 21:12:432 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:859 INFO  HomePage :46 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (fe818b9ff113a3f9c5eb9657eb031c1f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-15 21:12:168 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:418 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:783 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:103 INFO  ManageDriver :37 - Launching chrome 
+2021-12-15 21:12:90 INFO  ManageDriver :37 - Launching chrome 
